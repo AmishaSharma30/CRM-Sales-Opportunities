@@ -56,7 +56,3 @@ https://drive.google.com/drive/folders/12wJQinuK-SIywLWYW22ltgNEscM-dBBK?usp=dri
 ## Challenges:-
 - Handling Large Datasets: Managing and transforming data from multiple sources required careful attention to data integrity and relationships.
 - Identifying Meaningful Metrics: Understanding which metrics mattered most to MavenTech’s sales managers required deep exploration of the data and collaboration with stakeholders.
-
-## Future Goals:-
-- Automation: Set up automated data refresh schedules to ensure that managers always have access to the latest data.
-- Training Modules: Develop training materials for sales managers to help them better understand and utilize the insights provided by the dashboard.
